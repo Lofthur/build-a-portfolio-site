@@ -1,0 +1,53 @@
+@media screen and (min-width: 400px) and (max-width: 549px){
+	.text-header{
+		font-size: 2.8em;
+		margin-top: 35px;
+	}
+	.text-header-small{
+		font-size: 0.9em;
+	}
+}
+
+@media screen and (min-width: 550px){
+	.text-header{
+		font-size: 4em;
+		margin-top: 25px;
+	}
+
+	.text-header-small{
+		font-size: 1.3em;
+	}
+
+	.hide-image{
+		display: block;
+	}
+	.picture-spacer{
+		margin-bottom: 30px;
+	}
+}
+
+@media screen and (min-width: 700px){
+	.text-header{
+		font-size: 5em;
+	}
+	.text-header-small{
+		font-size: 1.62em;
+	}
+}
+
+@media screen and (min-width: 992px){
+	.text-header{
+		font-size: 6em;
+		margin-top: 12px;
+	}
+
+	.text-header-small{
+		font-size: 1.94em;
+	}
+
+	.text-work{
+		text-align: left;
+		text-indent: 20px;
+	}
+}
+
